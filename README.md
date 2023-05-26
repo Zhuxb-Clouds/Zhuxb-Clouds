@@ -3,7 +3,7 @@
 I'm Zhuxb,A Writer/Deginer/Developer.
 
 ## 技术栈
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Zhuxb-Clouds&show_icons=true&theme=onedark">  
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Zhuxb-Clouds&show_icons=true&theme=onedark">   -->
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=for-the-badge&logo=Vue.js)
 ![React.js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=React)
